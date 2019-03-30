@@ -1,6 +1,6 @@
 {
   "name": "react-native-emoji-select-board",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A keyboard only can use emoji",
   "main": "index.js",
   "scripts": {
