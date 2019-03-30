@@ -1,12 +1,11 @@
 # React Native Emoji
 react native emoji component
 
-![emojiicons](docs/emoticons.gif)
+<!-- ![emojiicons](docs/emoticons.gif) -->
 
-### latest screenshot sample
-![emojiicons](docs/sample.png )
+### sample
+![emojiicons](docs/sample.png)
 
-<!--![Markdown](http://i2.muimg.com/1949/cda818de0596cd04.gif)-->
 ## Install
 
 ```js
@@ -49,8 +48,9 @@ npm install react-native-emoji-select-board --save
 |**`show `**|`Bool `| show the component |`YES`| false |
 |**`concise `**|`Bool `| concise mod with less emoji |`No`| true |
 |**`showHistoryBar `**|`Bool `| enable history function |`No`| true |
-|**`showPlusBar `**|`Bool `| enable more emojiicons function(is on developing, if you have interesting on this, welcome pull request.)|`No`| true |
+|**`showPlusBar `**|`Bool `| enable more emojiicons function(is on developing, if you have interesting on this, welcome pull request.)|`No`| false |
 |**`asyncRender `**|`Bool `| async render |`No`| false |
+|**`blackList `**|`Array `| put some emojis into black list by using short_name |`No`| [] |
 
 ### API
 
