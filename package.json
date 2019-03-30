@@ -15,10 +15,14 @@
   "license": "MIT",
   "dependencies": {
     "emoji-datasource": "^2.4.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.11",
     "prop-types": "^15.5.10",
     "react-native-fetch-blob": "^0.10.5",
     "react-native-scrollable-tab-view": "^0.10.0",
     "string.fromcodepoint": "^0.2.1"
+  },
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*"
   }
 }

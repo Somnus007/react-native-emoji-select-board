@@ -10,7 +10,7 @@ react native emoji component
 ## Install
 
 ```js
-npm install react-native-emoji-select-board
+npm install react-native-emoji-select-board --save
 ```
 
 ## Usage
